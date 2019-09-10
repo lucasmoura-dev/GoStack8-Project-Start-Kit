@@ -1,0 +1,1 @@
+/* Credenciais para acessar o banco de dados */
