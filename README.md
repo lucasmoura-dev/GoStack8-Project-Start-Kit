@@ -5,7 +5,7 @@ NodeJS+Express Start Kit
 Esse repositório foi criado com a finalidade de ser um projeto básico para servir como partida para iniciar outros projetos com NodeJS e Express. Você poderá iniciar um projeto a partir dele fazendo um Fork, ou usar esse repositório como consulta, para relembrar as instalações e configurações iniciais ensinadas no curso GoStack8 (RocketSeat).
 
 
-##Guia
+## Guia
 
 1.  [Configurando a estrutura](https://github.com/lucasmoura-dev/GoStack8-Project-Start-Kit/commit/7953d2632c893d0e87902cc8e7857228c1e28d19#commitcomment-35011715 "Configurando a estrutura")
 2. [Instalando Nodemon e Sucrase(import/export) em ambiente de desenvolvimento](https://github.com/lucasmoura-dev/GoStack8-Project-Start-Kit/commit/c49379fff6c947344b70fbd9ed04f5fa2429302b#commitcomment-35011846 "Instalando Nodemon e Sucrase(import/export) em ambiente de desenvolvimento")
